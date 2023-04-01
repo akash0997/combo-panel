@@ -179,7 +179,7 @@
   resolved "https://registry.yarnpkg.com/@emotion/utils/-/utils-0.8.2.tgz#576ff7fb1230185b619a75d258cbc98f0867a8dc"
   integrity sha512-rLu3wcBWH4P5q1CGoSSH/i9hrXs7SlbRLkoq9IGuoPYNGQvDJ3pt/wmOM+XgYjIDRMVIdkUWt0RsfzF50JfnCw==
 
-"@grafana/ui@1.0.0":
+"@grafana/ui@6.0.1-alpha.0":
   version "6.0.1-alpha.0"
   resolved "https://registry.yarnpkg.com/@grafana/ui/-/ui-6.0.1-alpha.0.tgz#d3db9e4d3e35584a53425b1e51fcabb6cea67ac7"
   integrity sha512-NBZpsGMlpcCiAl5Njij86sOGirC5VhQ0mMnxzFb/IuiiVKUIM0sfWaFBcnsvBviWZFmzPaNlOXzHStBW8hvhqw==
@@ -4226,9 +4226,9 @@ jest@^23.6.0:
     jest-cli "^23.6.0"
 
 jquery@^3.2.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
-  integrity sha512-36+AdBzCL+y6qjw5Tx7HgzeGCzC81MDDgaUP8ld2zhx58HdqXGoBd+tHdrBMiyjGQs0Hxs/MLZTu/eHNJJuWPw==
+  version "3.6.4"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.4.tgz#ba065c188142100be4833699852bf7c24dc0252f"
+  integrity sha512-v28EW9DWDFpzcD9O5iyJXg3R3+q+mET5JhnjJzQUZMHOv67bpSIHq81GEYpPNZHG+XXHsfSme3nxp/hndKEcsQ==
 
 js-base64@^2.1.9:
   version "2.5.1"
