@@ -179,7 +179,7 @@
   resolved "https://registry.yarnpkg.com/@emotion/utils/-/utils-0.8.2.tgz#576ff7fb1230185b619a75d258cbc98f0867a8dc"
   integrity sha512-rLu3wcBWH4P5q1CGoSSH/i9hrXs7SlbRLkoq9IGuoPYNGQvDJ3pt/wmOM+XgYjIDRMVIdkUWt0RsfzF50JfnCw==
 
-"@grafana/ui@1.0.0":
+"@grafana/ui@6.0.1-alpha.0":
   version "6.0.1-alpha.0"
   resolved "https://registry.yarnpkg.com/@grafana/ui/-/ui-6.0.1-alpha.0.tgz#d3db9e4d3e35584a53425b1e51fcabb6cea67ac7"
   integrity sha512-NBZpsGMlpcCiAl5Njij86sOGirC5VhQ0mMnxzFb/IuiiVKUIM0sfWaFBcnsvBviWZFmzPaNlOXzHStBW8hvhqw==
@@ -7547,9 +7547,9 @@ write-file-atomic@^2.1.0:
     signal-exit "^3.0.2"
 
 ws@^5.2.0:
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-5.2.2.tgz#dffef14866b8e8dc9133582514d1befaf96e980f"
-  integrity sha512-jaHFD6PFv6UgoIVda6qZllptQsMlDEJkTQcybzzXDYM1XO9Y8em691FGMPmM46WGyLU4z9KMgQN+qrux/nhlHA==
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-5.2.3.tgz#05541053414921bc29c63bee14b8b0dd50b07b3d"
+  integrity sha512-jZArVERrMsKUatIdnLzqvcfydI85dvd/Fp1u/VOpfdDWQ4c9qWXe+VIeAbQ5FrDwciAkr+lzofXLz3Kuf26AOA==
   dependencies:
     async-limiter "~1.0.0"
 
